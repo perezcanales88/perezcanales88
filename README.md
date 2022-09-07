@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I am currently working with **Python** to analyse data. Some libraries than I am using are **Pandas, Numpy and Matplotlib**.
+
 <!--
 **perezcanales88/perezcanales88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
